@@ -14,13 +14,13 @@ _Incident Manager à la Commission Européenne_ <br>
 - Documentation précise des incidents et des solutions pour faciliter la résolution future des problèmes.
 <br><br>
 
-## Études
+## 🏫 Études
 **Bachelier en Écriture multimédia** <br>
 Haute Ecole Provinciale de Hainaut - Marcinelle _(Apr 2017 - Jun 2017)_ <br>
 **Éducateur A2** <br>
 Athénée Royal René Magritte - Châtelet _(Apr 2017 - Jun 2017)_ <br>
 
-## Formations
+## 📓 Formations
 **Développeur Mobile** <br>
 Technofutur TIC - Gosselies _(Juillet 2020 - Février 2021)_ <br>
 **Développeur Web Apps** <br>
@@ -28,13 +28,13 @@ Technofutur TIC - Gosselies _(Janvier 2019 - Octobre 2019)_ <br>
 **Python Data Mining** <br>
 Technofutur TIC - Gosselies _(Novembre 2018 - Janvier 2019)_ <br>
 
-## Certifications
+## 📃 Certifications
 **ITIL4 Foundation**<br>
 PeopleCert _(Août 2023)_<br>
 **Google IT Support Professional**<br>
 Coursera _(Décembre 2021)_<br>
 
 ## 💬 Compétences linguistiques
-**Français**: Langue maternelle <br>
+🇫🇷 **Français**: Langue maternelle <br>
 🇺🇸 **Anglais**: B2 <br>
 <br>
