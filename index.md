@@ -1,5 +1,5 @@
 # Marion Richez
-_Incident Manager à la Commission Européenne_ 🇧🇪 <br><br>
+_Incident Manager à la Commission Européenne_ 🇧🇪 <br>
 [Email](mailto:richez.m95@gmail.com) / [Linkedin](https://www.linkedin.com/in/marion-richez/) / [Github](https://github.com/MarionRichez)
 
 ## 👩🏼‍💻 Expériences Professionnels
