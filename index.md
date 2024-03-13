@@ -2,6 +2,10 @@
 _Incident Manager à la Commission Européenne_ 🇧🇪 🇪🇺 <br><br>
 [Email](mailto:richez.m95@gmail.com) / [Linkedin](https://www.linkedin.com/in/marion-richez/) / [Github](https://github.com/MarionRichez)
 
+## 👩‍💼 Profil
+En quête de nouvelles opportunités dans le domaine informatique, je suis déterminé à mettre à profit mes compétences en technologie de l'information, ma formation approfondie et mes certifications pour contribuer de manière significative au développement de votre entreprise. Je cherche un environnement stimulant où je pourrai développer mes compétences et évoluer professionnellement.
+<br>
+
 ## 👩🏼‍💻 Expériences Professionnels
 **Incident Manager**, Brayton Global _(Juillet 2022 - Aujourd'hui)_ <br>
 - Gestion proactive et réactive des incidents majeurs pour assurer une disponibilité maximale des services.
