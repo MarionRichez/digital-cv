@@ -7,12 +7,12 @@ _Incident Manager à la Commission Européenne_ 🇧🇪 <br>
 - Gestion proactive et réactive des incidents majeurs pour assurer une disponibilité maximale des services.
 - Collaboration étroite avec les équipes techniques pour résoudre rapidement les problèmes et minimiser l'impact sur les utilisateurs.
 - Mise en œuvre et amélioration continue des processus ITIL pour optimiser la gestion des incidents.
-<br><br>
+<br>
 
 **IT Service Desk**, Brayton Global _(Janvier 2022 - Juillet 2022)_ <br>
 - Fourniture d'un support technique de premier niveau aux utilisateurs finaux, en résolvant les incidents et en répondant aux demandes dans les délais.
 - Documentation précise des incidents et des solutions pour faciliter la résolution future des problèmes.
-<br><br>
+<br>
 
 ## 🏫 Études
 **Bachelier en Écriture multimédia** <br>
