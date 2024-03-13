@@ -16,9 +16,13 @@ _Incident Manager à la Commission Européenne_ 🇧🇪 🇪🇺 <br><br>
 
 ## 🏫 Études
 **Bachelier en Écriture multimédia** <br>
-Haute Ecole Provinciale de Hainaut - Marcinelle _(Apr 2017 - Jun 2017)_ <br>
-**Éducateur A2** <br>
-Athénée Royal René Magritte - Châtelet _(Apr 2017 - Jun 2017)_ <br>
+Haute Ecole Provinciale de Hainaut - Marcinelle _(Septembre 2015 - Septembre 2018)_ <br>
+**CESS, Éducateur A2** <br>
+Athénée Royal René Magritte - Châtelet _(Septembre 2013 - Juin 2015)_ <br>
+**Techniques Sociales et d'Animations** <br>
+Institut Notre-Dame - Fleurus _(Septembre 2011 - Juin 2012)_ <br>
+**CEB** <br>
+Institut Notre-Dame - Fleurus _(Juin 2008)_ <br>
 
 ## 📓 Formations
 **Développeur Mobile** <br>
@@ -37,4 +41,3 @@ Coursera _(Décembre 2021)_<br>
 ## 💬 Compétences linguistiques
 🇫🇷 **Français**: Langue maternelle <br>
 🇺🇸 **Anglais**: B2 <br>
-<br>
